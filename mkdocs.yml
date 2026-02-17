@@ -1,0 +1,12 @@
+site_name: Myco Codex
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Factions:
+      - The Last Bastion: factions/last-bastion.md
+      - Machine: factions/machine.md
+      - The Verdant: factions/verdant.md
+  - Units: units/index.md
+  - Timeline: timeline/index.md
+  - Glossary: glossary.md
