@@ -7,6 +7,7 @@ This section provides an overview of the major unit types available to each fact
 - **Sentinel Infantry:** Sturdy soldiers equipped with modular weapons and adaptive armor; they form the backbone of Bastion forces.
 - **Bastion Engineer:** Support units that repair structures and salvage resources; they can deploy turrets or mines to fortify positions.
 - **Guardian Tank:** Heavily armored vehicles with rotating turrets; effective at holding choke points and repelling assaults.
+- - **Tetherdrone Worker:** Remote-operated drones that gather resources, construct structures, and repair mechanical units; they function optimally within relay network coverage, slowing down when outside of linked networks.
 
 ## Machine
 
